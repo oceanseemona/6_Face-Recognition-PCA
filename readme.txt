@@ -26,10 +26,3 @@ If Python is not installed yet, Anaconda distribution of Python can also be used
 OUTPUT:
 
 A curve between accuracy and k (direction) has been displayed, while varying the value of k.
-
-
-Submitted by- A. Ocean Seemona
-M.tech (2nd sem) IS
-ML Lab Assignment- 6
-Email- 220CS2265@nitrkl.ac.in
-Rollno- 220CS2265
